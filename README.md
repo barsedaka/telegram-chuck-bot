@@ -5,7 +5,7 @@ ChuckBot utilizes the Azure Translation API to translate jokes from English to t
 
 
 ## Getting Started
-To initiate a chat with ChuckBot on Telegram, [click here](t.me/ChuckLaughterBot)
+To initiate a chat with ChuckBot on Telegram, [click here](https://t.me/ChuckLaughterNBot)
 
 1. Start the conversation with ChuckBot by using the **/start** command. 
    This command also serves to restart ChuckBot.
