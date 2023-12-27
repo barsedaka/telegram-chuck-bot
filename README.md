@@ -14,4 +14,4 @@ To initiate a chat with ChuckBot on Telegram, [click here](https://t.me/ChuckLau
 
 
 ## Screenshots 
-![GitHub Logo](https://github.com/username/repository/raw/main/images/logo.png)
+![](https://github.com/username/repository/raw/main/images/logo.png)
