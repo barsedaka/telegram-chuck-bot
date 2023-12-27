@@ -14,4 +14,4 @@ To initiate a chat with ChuckBot on Telegram, [click here](https://t.me/ChuckLau
 
 
 ## Screenshots 
-![](https://github.com/barsedaka/telegram-chuck-bot/tree/master/images/screenshot.jpeg)
+![Link](https://github.com/barsedaka/telegram-chuck-bot/tree/master/images/screenshot.jpeg)
